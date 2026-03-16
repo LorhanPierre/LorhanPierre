@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 Olá! Sou o **Lorhan**
 
@@ -24,7 +24,7 @@ Tenho foco em desenvolvimento **full stack**, com maior afinidade pelo backend �
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Tenho foco em desenvolvimento **full stack**, com maior afinidade pelo backend �
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorhanPierre&layout=compact&langs_count=7&theme=dracula&border_radius=10"/>

@@ -17,9 +17,9 @@ Olá! Sou o **Lorhan**
 Tenho foco em desenvolvimento **full stack**, com maior afinidade pelo backend — especialmente com **Java e Spring Boot**. 
 
 ```
-💡 Atualmente aprendendo : Docker · TypeScript · Apache · Arquitetura de Software
-🎯 Objetivo              : Evoluir de júnior para mid-level
-🌍 Localização           : Jaraguá do Sul, SC — Brasil
+💡 Atualmente aprimorando : Docker · TypeScript · Apache · Arquitetura de Software
+🎯 Objetivo               : Evoluir de júnior para mid-level
+🌍 Localização            : Jaraguá do Sul, SC — Brasil
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

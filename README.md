@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=120&section=header&text=Lorhan%20Pierre&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7B2FBE&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Lorhan+%F0%9F%91%8B;Dev+aprendendo+aos+poucos+%F0%9F%9A%80;always+building+something+new+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Lorhan;Dev+aprendendo+aos+poucos;Always+building+something+new" alt="Typing SVG" />
 
 <br/>
 

@@ -6,10 +6,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/LorhanPierre?style=for-the-badge&color=6a0dad&labelColor=1a0a2e&logo=github)](https://github.com/LorhanPierre)
-&nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=LorhanPierre&style=for-the-badge&color=6a0dad&labelColor=1a0a2e)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

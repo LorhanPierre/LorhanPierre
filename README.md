@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### Sobre mim
 
@@ -22,7 +22,7 @@ Tenho foco em desenvolvimento **full stack**, com maior afinidade pelo backend �
 🌍 Localização            : Jaraguá do Sul, SC — Brasil
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### Tecnologias & Ferramentas
 
@@ -69,7 +69,7 @@ Tenho foco em desenvolvimento **full stack**, com maior afinidade pelo backend �
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### GitHub Stats
 
@@ -85,7 +85,7 @@ Tenho foco em desenvolvimento **full stack**, com maior afinidade pelo backend �
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorhanPierre&theme=dracula&border_radius=10&date_format=j%20M%5B%20Y%5D" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### Contribuições
 

@@ -9,20 +9,6 @@
 
 ---
 
-### Sobre mim
-
-Olá! Sou o **Lorhan**
-
-Tenho foco em desenvolvimento **full stack**, com maior afinidade pelo backend — especialmente com **Java e Spring Boot**. 
-
-```
-💡 Atualmente aprimorando : Docker · TypeScript · Apache · Arquitetura de Software
-🎯 Objetivo               : Evoluir de júnior para mid-level
-🌍 Localização            : Jaraguá do Sul, SC — Brasil
-```
-
----
-
 ### Tecnologias & Ferramentas
 
 <div align="center">
@@ -69,33 +55,3 @@ Tenho foco em desenvolvimento **full stack**, com maior afinidade pelo backend �
 </div>
 
 ---
-
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorhanPierre&layout=compact&langs_count=7&theme=dracula&border_radius=10"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorhanPierre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LorhanPierre&theme=dracula&border_radius=10&date_format=j%20M%5B%20Y%5D" />
-</div>
-
----
-
-### Contribuições
-
-<div align="center">
-
-![github-user-contribution](https://github.com/user-attachments/assets/cc407e07-1d17-42a4-a8b4-526b28bfa228)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=80&section=footer" />
-
-<div align="center">
-  <sub>Feito por Lorhan Pierre</sub>
-</div>
